@@ -14,7 +14,7 @@
 		android:layout_height="wrap_content" android:id="@+id/time"
 		android:gravity="center" android:textColor="#ffffffff"
 		android:textSize="30dp"></TextView>
-	<jp.dip.sys1.android.drumpicker.lib.TimeDrumPicker
+	<jp.dip.sys1.android.drumpicker.lib.TimeDrumPicker12Hours
 		android:id="@+id/timepicker" android:layout_width="fill_parent"
 		android:layout_height="wrap_content" />
 	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

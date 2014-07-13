@@ -21,7 +21,7 @@
 		<jp.dip.sys1.android.drumpicker.lib.DateDrumPicker
 			android:id="@+id/datepicker" android:layout_width="wrap_content"
 			android:layout_height="wrap_content" android:layout_weight="1" />
-		<jp.dip.sys1.android.drumpicker.lib.TimeDrumPicker
+		<jp.dip.sys1.android.drumpicker.lib.TimeDrumPicker12Hours
 			android:id="@+id/timepicker" android:layout_width="wrap_content"
 			android:layout_height="wrap_content" android:layout_weight="2" />
 	</LinearLayout>
